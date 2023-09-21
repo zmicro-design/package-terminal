@@ -1,5 +1,5 @@
 NAME=terminal
-VERSION=v0.0.1
+VERSION=v1.0.0
 MODULE=package
 DESCRIPTION="Terminal in Browser"
 HOMEPAGE="https://github.com/go-zoox/terminal"
